@@ -1,2 +1,2 @@
 # exemplo
-Exemplo dado no curso Gumga Framework
+Exemplo curso Gumga Framework
